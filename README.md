@@ -61,8 +61,8 @@ void main() {
     printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");
 }
 
-🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+🖥️ Output
+<img width="1280" height="925" alt="WhatsApp Image 2026-09-05 at 8 54 02 PM" src="https://github.com/user-attachments/assets/fd31c5cd-e4bb-46f7-ac28-85be31702c93" />
 
 ✅ Result
 
